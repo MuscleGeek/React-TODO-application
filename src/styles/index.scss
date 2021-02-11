@@ -12,12 +12,18 @@
 
 */
 body {
-    background-color: lightcyan;
+     background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,109,121,1) 35%, rgba(0,212,255,1) 100%); 
 
 }
 
 .list-group-item {
 
-    background-color: lightgoldenrodyellow;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,112,121,0.5993931019673495) 13%, rgba(0,212,255,1) 100%);
+}
+
+li {
+    color: greenyellow;
 }
 
